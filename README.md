@@ -1,4 +1,4 @@
-# Gemini dollar
+# Gemini dollar 
 
 The Gemini dollar is an ERC20 compliant token backed by the U.S. dollar.
 
